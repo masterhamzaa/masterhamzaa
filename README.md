@@ -1,4 +1,4 @@
-### Hi :zap: 
+### Hi ♾️ 
 - I’m currently learning AI
 
 <!--
