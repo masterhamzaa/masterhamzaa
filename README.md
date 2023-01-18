@@ -1,5 +1,5 @@
 ### Hi :zap: 
-- 🌱 I’m currently learning AI
+- I’m currently learning AI
 
 <!--
 **masterhamzaa/masterhamzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
